@@ -1,0 +1,9 @@
+/.idea
+tests/_output/*
+tests/acceptance.suite.yml
+tests/functional.suite.yml
+tests/unit.suite.yml
+tests/_support/_generated/*
+tests/_data/dump.sql
+tests/_envs/local.yml
+/vendor/
